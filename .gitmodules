@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/spiceitup/frontend.git
+[submodule "spice"]
+	path = spice
+	url = https://github.com/spiceitup/spice.git
